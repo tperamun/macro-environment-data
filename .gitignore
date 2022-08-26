@@ -1,3 +1,6 @@
-./ipynb_checkpoints
-macro-environment/.ipynb_checkpoints/
+.ipynb_checkpoints
+macro-environment/.ipynb_checkpoints
 macro-environment/.DS_Store
+.DS_Store
+stocks/.ipynb_checkpoints
+stocks/.DS_Store
